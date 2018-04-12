@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'PON METRO Palermo agenda digitale'
+project = 'PON Metro Palermo Asse 1 agenda digitale'
 copyright = '[PON METRO Palermo]'
 
 # The name of the Pygments (syntax highlighting) style to use.
