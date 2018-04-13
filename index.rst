@@ -163,6 +163,7 @@ Con riferimento alla “\ |STYLE34|\ ” si precisa che il sistema è esclusivam
     :caption: Indice 
 
     assistenza-sostegno-sociale
+    edilizia-catasto
 
 
 .. bottom of content
