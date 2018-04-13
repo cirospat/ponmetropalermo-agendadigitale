@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'PON Metro Palermo Asse 1 agenda digitale'
+project = 'PON Metro Palermo agenda digitale'
 copyright = '[PON METRO Palermo]'
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -36,5 +36,4 @@ def setup(app):
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
 """
 #latex_documents = []
-latex_logo = "static/ponmetropalermo.png"
 html_logo = "static/ponmetropalermo.png"
