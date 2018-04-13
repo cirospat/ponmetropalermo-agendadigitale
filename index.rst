@@ -8,6 +8,8 @@ PON Metro Palermo 2014-2020 Asse 1 agenda digitale
 
 \ |LINK1|\  
 
+\ |LINK2|\  
+
 Revisione Marzo 2018 - Post Deliberazione G.M. n. 268 del 07/12/2016
 
 Asse 1 - Agenda Digitale Metropolitana
@@ -318,6 +320,10 @@ Con riferimento alla “\ |STYLE34|\ ” si precisa che il sistema è esclusivam
 .. |LINK1| raw:: html
 
     <a href="https://ponmetro.comune.palermo.it" target="_blank">https://ponmetro.comune.palermo.it</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/" target="_blank">http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/</a>
 
 
 .. |IMG1| image:: static/ponmetro_1.png
