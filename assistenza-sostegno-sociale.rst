@@ -116,9 +116,9 @@ Articolazione temporale delle attività progettuali
 
 Lo sviluppo temporale della Piattaforma ICT “\ |STYLE41|\ ”, analogamente a quanto previsto per le altre Piattaforme, si articola in due Fasi. Ciò è reso necessario dalla molteplicità di piattaforme tecnologiche coinvolte nella realizzazione e a fondamento della Piattaforma in questione, combinata con la complessità e con l’elevato livello di innovatività delle stesse che comporta la difficoltà di reperire sul mercato prodotti chiavi-in-mano pronti a soddisfare i requisiti progettuali richiesti.
 
-        ●        \ |STYLE42|\  questa prima fase è dedicata allo studio e all’implementazione delle strutture dati a fondamento dei diversi sistemi di anagrafica, alle modalità di interoperabilità con gli altri sistemi di anagrafica già presenti e/o da sviluppare (in primis ANPR); è dedicata altresì allo studio delle componenti base, logiche e tecnologiche, del FDC e alla realizzazione di un sistema prototipale di Portale Sociale.
+*  \ |STYLE42|\  questa prima fase è dedicata allo studio e all’implementazione delle strutture dati a fondamento dei diversi sistemi di anagrafica, alle modalità di interoperabilità con gli altri sistemi di anagrafica già presenti e/o da sviluppare (in primis ANPR); è dedicata altresì allo studio delle componenti base, logiche e tecnologiche, del FDC e alla realizzazione di un sistema prototipale di Portale Sociale.
 
-\ |STYLE43|\  dopo avere implementato le Anagrafiche, i sistemi di interoperabilità con le altre Anagrafiche e il prototipo di Portale Sociale del Territorio, si procederà alla messa in produzione di questi sistemi e al loro popolamento da parte dei cittadini e delle istituzioni preposte. 
+* \ |STYLE43|\  dopo avere implementato le Anagrafiche, i sistemi di interoperabilità con le altre Anagrafiche e il prototipo di Portale Sociale del Territorio, si procederà alla messa in produzione di questi sistemi e al loro popolamento da parte dei cittadini e delle istituzioni preposte. 
 
 .. _h2a27307412b1b6951405f6d2b1fb6e:
 
