@@ -127,11 +127,11 @@ Sostenibilità economica e gestionale e governance del progetto
 
 La \ |STYLE44|\  della Piattaforma ICT “\ |STYLE45|\ ”, analogamente a quanto accade con le altre Piattaforme, è garantita da una strategia articolata, basata sulla modularità e sul livello dei servizi erogati. In particolare:
 
-        ●        i costi di sviluppo della Piattaforma e dei servizi base sono interamente coperti dalle risorse del presente progetto;
+*  i costi di sviluppo della Piattaforma e dei servizi base sono interamente coperti dalle risorse del presente progetto;
 
-        ●        l’erogazione dei servizi base, quelli cioè prevalentemente attinenti alle componenti anagrafiche e alle funzionalità base del Portale Sociale, terminato il progetto e quindi a partire dal 2021, saranno erogati dalla società \ |STYLE46|\  Sispi del Comune di Palermo previa copertura dei costi vivi di gestione in esercizio dei servizi stessi;
+* l’erogazione dei servizi base, quelli cioè prevalentemente attinenti alle componenti anagrafiche e alle funzionalità base del Portale Sociale, terminato il progetto e quindi a partire dal 2021, saranno erogati dalla società \ |STYLE46|\  Sispi del Comune di Palermo previa copertura dei costi vivi di gestione in esercizio dei servizi stessi;
 
-        ●        lo sviluppo e l’erogazione di nuovi servizi (sviluppo di sezioni specifiche del Portale Sociale, erogazione di servizi in Alta Affidabilità, etc.) saranno governati dalla stipula di appositi accordi onerosi, negoziati dai singoli committenti con la società \ |STYLE47|\  Sispi del Comune di Palermo cui è affidato lo sviluppo e la gestione in esercizio della piattaforma e dei servizi dalla stessa erogati.
+* lo sviluppo e l’erogazione di nuovi servizi (sviluppo di sezioni specifiche del Portale Sociale, erogazione di servizi in Alta Affidabilità, etc.) saranno governati dalla stipula di appositi accordi onerosi, negoziati dai singoli committenti con la società \ |STYLE47|\  Sispi del Comune di Palermo cui è affidato lo sviluppo e la gestione in esercizio della piattaforma e dei servizi dalla stessa erogati.
 
 I \ |STYLE48|\  per il Comune di Palermo e per i Comuni di area metropolitana, associati all’adozione della presente Piattaforma, saranno considerevolmente inferiori rispetto a quelli medi di mercato dal momento che le componenti architetturali sulle quali si fonda la Piattaforma stessa sono parte di un ecosistema che consente di ottimizzare l’impiego delle risorse, riducendone altresì il costo. L’alta \ |STYLE49|\  della Piattaforma, consentita dall’adozione diffusa della tecnologia di \ |STYLE50|\ , dallo sviluppo di applicativi \ |STYLE51|\ -ready e dalla condivisione delle componenti infrastrutturali con le altre Piattaforme di progetto, è garanzia di riduzione dei costi di gestione e di esercizio all’aumentare del numero di Amministrazioni che intenderanno avvalersi del servizio.
 
@@ -146,25 +146,25 @@ Elementi tecnologici
 
 La Piattaforma ICT “\ |STYLE56|\ ” poggia su diverse componenti tecnologiche, alcune delle quali in comune con le altre Piattaforme di progetto. Di seguito si riportano i riferimenti ai principali elementi tecnologici impiegati e utilizzati dalla presente Piattaforma:
 
-        ●        \ |STYLE57|\  si tratta della piattaforma computazionale di base, in grado non solo di fornire il supporto computazionale alla Piattaforma ma anche di renderla scalabile in termini di risorse disponibili e abilitare la replicabilità della stessa, in modo personalizzato, ai Comuni di area metropolitana coinvolti nel progetto. Sulla piattaforma di \ |STYLE58|\  insistono buona parte delle componenti middleware utilizzate e di seguito descritte. Condivisa con altre Piattaforme di progetto;
+* \ |STYLE57|\  si tratta della piattaforma computazionale di base, in grado non solo di fornire il supporto computazionale alla Piattaforma ma anche di renderla scalabile in termini di risorse disponibili e abilitare la replicabilità della stessa, in modo personalizzato, ai Comuni di area metropolitana coinvolti nel progetto. Sulla piattaforma di \ |STYLE58|\  insistono buona parte delle componenti middleware utilizzate e di seguito descritte. Condivisa con altre Piattaforme di progetto;
 
-        ●        \ |STYLE59|\  fornisce gli strumenti per la georeferenziazione delle informazioni e la geolocalizzazione di eventi, oggetti e individui. Condivisa con altre Piattaforme di progetto;
+* \ |STYLE59|\  fornisce gli strumenti per la georeferenziazione delle informazioni e la geolocalizzazione di eventi, oggetti e individui. Condivisa con altre Piattaforme di progetto; 
 
-        ●        \ |STYLE60|\  fornisce il supporto alla gestione delle diverse Anagrafiche. Condivisa con altre Piattaforme di progetto;
+* \ |STYLE60|\  fornisce il supporto alla gestione delle diverse Anagrafiche. Condivisa con altre Piattaforme di progetto; 
 
-        ●        \ |STYLE61|\  fornisce il supporto alla gestione per processi di tutta la componente di \ |STYLE62|\ . Condivisa con altre Piattaforme di progetto;
+* \ |STYLE61|\  fornisce il supporto alla gestione per processi di tutta la componente di \ |STYLE62|\ . Condivisa con altre Piattaforme di progetto;
 
-        ●        \ |STYLE63|\  la Piattaforma \ |STYLE64|\  (\ |STYLE65|\ ) ricopre un ruolo cruciale nell’analisi dei feedback e delle esigenze degli utenti della piattaforma, finalizzata alla valorizzazione della \ |STYLE66|\  manifestata dagli utenti stessi, e all’ottimale soddisfacimento delle loro esigenze che, in questo caso, scaturiscono dall’interazione tra diverse Piattaforme. Condivisa con altre Piattaforme di progetto;
+* \ |STYLE63|\  la Piattaforma \ |STYLE64|\  (\ |STYLE65|\ ) ricopre un ruolo cruciale nell’analisi dei feedback e delle esigenze degli utenti della piattaforma, finalizzata alla valorizzazione della \ |STYLE66|\  manifestata dagli utenti stessi, e all’ottimale soddisfacimento delle loro esigenze che, in questo caso, scaturiscono dall’interazione tra diverse Piattaforme. Condivisa con altre Piattaforme di progetto;  
 
-        ●        \ |STYLE67|\  rappresenta l’elemento collante, di interoperabilità, tra le diverse Piattaforme infrastrutturali, in grado altresì di standardizzare i dati per una loro esposizione ad altre applicazioni e piattaforme tematiche. Tale piattaforma supporterà, tra gli altri, il disaccoppiamento del livello di accesso ai dati/applicazioni dai front-end applicativi. Condivisa con altre Piattaforme di progetto.
+* \ |STYLE67|\  rappresenta l’elemento collante, di interoperabilità, tra le diverse Piattaforme infrastrutturali, in grado altresì di standardizzare i dati per una loro esposizione ad altre applicazioni e piattaforme tematiche. Tale piattaforma supporterà, tra gli altri, il disaccoppiamento del livello di accesso ai dati/applicazioni dai front-end applicativi. Condivisa con altre Piattaforme di progetto.
 
 Verrà sviluppato un sistema articolato di Web Applications basate sul modello SOA e di \ |STYLE68|\  disponibili per le principali piattaforme (iOS, Android, Windows) per consentire agli utenti (privati cittadini e istituzioni) di fruire delle informazioni presenti sulla piattaforma. I servizi saranno fruibili online tramite interfacce basate su grafica personalizzabile tramite CSS, erogabili anche tramite \ |STYLE69|\ .
 
 L’adozione nativa del paradigma del \ |STYLE70|\ , nonché l’utilizzo di componenti middleware condivise con le altre Piattaforme, garantisce una naturale scalabilità del servizio in termini sia di front-office sia di \ |STYLE71|\ . Per quanto concerne le funzionalità di \ |STYLE72|\ , queste potranno essere raggruppate in due categorie:
 
-        ●        quelle di \ |STYLE73|\ , legate alla gestione delle funzionalità di base degli applicativi e delle componenti infrastrutturali, in capo alla società \ |STYLE74|\  Sispi del Comune di Palermo che se ne farà garante per l’intera Piattaforma e per tutti gli utenti;
+* quelle di \ |STYLE73|\ , legate alla gestione delle funzionalità di base degli applicativi e delle componenti infrastrutturali, in capo alla società \ |STYLE74|\  Sispi del Comune di Palermo che se ne farà garante per l’intera Piattaforma e per tutti gli utenti;
 
-        ●        quelle di \ |STYLE75|\ , legate alla personalizzazione dei servizi da parte delle singole Amministrazioni/utenti, in capo ai singoli presidii delle rispettive Amministrazioni/utenti.
+* quelle di \ |STYLE75|\ , legate alla personalizzazione dei servizi da parte delle singole Amministrazioni/utenti, in capo ai singoli presidii delle rispettive Amministrazioni/utenti.
 
 Relativamente all’\ |STYLE76|\ , si prevede che il servizio sarà operativo e accessibile da parte dell’intera popolazione residente di almeno 7 Comuni entro il 31/12/2019 e di almeno 42 Comuni entro il 31/12/2020.
 
@@ -187,19 +187,13 @@ Risultato atteso - Indicatori di Output
 =======================================
 
 
-+-----------------------------+-----------------------------+-----------+-----------+
-|Descrizione indicatore output|Descrizione indicatore output|Target 2018|Target 2023|
-+=============================+=============================+===========+===========+
-|IO01                         |Numero di                    |0          |7          |
-|                             |                             |           |           |
-|                             |comuni associati             |           |           |
-|                             |                             |           |           |
-|                             |a sistemi                    |           |           |
-|                             |                             |           |           |
-|                             |informativi                  |           |           |
-|                             |                             |           |           |
-|                             |integrati                    |           |           |
-+-----------------------------+-----------------------------+-----------+-----------+
++-----------------------------+------------------------------------+-----------+-----------+
+|Descrizione indicatore output|Descrizione indicatore output       |Target 2018|Target 2023|
++=============================+====================================+===========+===========+
+|IO01                         |Numero di comuni associati a sistemi|0          |7          |
+|                             |                                    |           |           |
+|                             |informativi integrati               |           |           |
++-----------------------------+------------------------------------+-----------+-----------+
 
 \ |STYLE82|\ 
 
