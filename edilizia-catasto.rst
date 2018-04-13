@@ -240,12 +240,17 @@ Risultato atteso - Indicatori di Output
 =======================================
 
 
-+-----------------+----------------------------------------------------------+-------+------+
-|Descrizione      |Descrizione                                               |Target |Target|
-|indicatore output|indicatore output                                         |2018   |2023  |
-+=================+==========================================================+=======+======+
-|IO01             |Numero di comuni associati a sistemi informativi integrati|0      |7     |
-+-----------------+----------------------------------------------------------+-------+------+
++------------+---------------------+------+------+
+|Descrizione |Descrizione          |Target|Target|
+|indicatore  |indicatore           |2018  |2023  |
+|output      |output               |      |      |
++============+=====================+======+======+
+|IO01        |Numero di comuni     |0     |7     |
+|            |                     |      |      |
+|            |associati a sistemi  |      |      |
+|            |                     |      |      |
+|            |informativi integrati|      |      |
++------------+---------------------+------+------+
 
 .. _h271f768271872255d2f7d182d767d38:
 
