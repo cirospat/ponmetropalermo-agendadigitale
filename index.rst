@@ -58,7 +58,11 @@ Elemento comune a buona parte delle Piattaforme sviluppate sarà l’articolazio
 Tale articolazione origina dalla necessità e opportunità di fare ricorso allo stato dell’arte delle tecnologie disponibili e dalla volontà di creare un ecosistema applicativo che miri all’ottimale impiego delle risorse disponibili nonché alla nativa interoperabilità delle stesse. Tutto ciò non è facilmente o immediatamente reperibile sul mercato, come soluzione pronta “a scaffale”, viceversa necessitando di una fase di \ |STYLE26|\  tecnologico seguita da una fase di implementazione operativa che porti a dei prototipi funzionanti, da sperimentare su scala ridotta entro il 2018 (coinvolgendo almeno 3 Comuni dell’area metropolitana), che verranno valutati come soluzione da mettere in produzione su una più ampia scala entro il termine ultimo del progetto (coinvolgendo almeno 44 Comuni dell’area metropolitana\*):
 
 
-|REPLACE1|
++-----------------------------+----------------------------------------------------------+-------------+-------------+
+|Descrizione indicatore output|Descrizione indicatore output                             |Target 2018\*|Target 2023\*|
++=============================+==========================================================+=============+=============+
+|IO01                         |Numero di comuni associati a sistemi informativi integrati|4            |42           |
++-----------------------------+----------------------------------------------------------+-------------+-------------+
 
 \ |STYLE27|\ 
 
@@ -83,7 +87,13 @@ IR01 - Numero di Comuni della Città metropolitana con servizi pienamente intera
 
 IR02 - Persone di 14 e più anni che hanno usato internet negli ultimi 12 mesi per relazionarsi per uso privato con la Pubblica Amministrazione o con i gestori di servizi pubblici.
 
-|REPLACE2|
++-----------------------+---------------+--------------+---------------+
+|Indicatore di risultato|Unità di misura|Baseline (RMS)|Obiettivo (RMS)|
++=======================+===============+==============+===============+
+|IR01                   |%              |15,50         |70,00          |
++-----------------------+---------------+--------------+---------------+
+|IR02                   |%              |29,10         |50,00          |
++-----------------------+---------------+--------------+---------------+
 
 .. _h3a247b4f3668261c463261685b586f:
 
@@ -93,7 +103,25 @@ Dotazione finanziaria
 Di seguito si riporta lo schema di ripartizione delle risorse destinate all’Asse 1 tra le diverse Piattaforme tematiche che si prevede di realizzare.
 
 
-|REPLACE3|
++---------------+-------------------------------+-----------------+
+|Codice progetto|Titolo progetto                |Risorse assegnate|
++===============+===============================+=================+
+|PA1.1.1.a      |Piattaforma ICT “\ |STYLE30|\ ”|€ 2.735.000,00   |
++---------------+-------------------------------+-----------------+
+|PA1.1.1.b      |Piattaforma ICT “\ |STYLE31|\ ”|€ 1.985.000,00   |
++---------------+-------------------------------+-----------------+
+|PA1.1.1.c      |Piattaforma ICT “\ |STYLE32|\ ”|€ 1.290.000,00   |
++---------------+-------------------------------+-----------------+
+|PA1.1.1.d      |Piattaforma ICT “\ |STYLE33|\ ”|€ 1.705.000,00   |
++---------------+-------------------------------+-----------------+
+|PA1.1.1.e      |Piattaforma ICT “\ |STYLE34|\ ”|€ 1.785.000,00   |
++---------------+-------------------------------+-----------------+
+|PA1.1.1.f      |Piattaforma ICT “\ |STYLE35|\ ”|€ 4.515.000,00   |
++---------------+-------------------------------+-----------------+
+|PA1.1.1.g      |Piattaforma ICT “\ |STYLE36|\ ”|€1.985.000,00    |
++---------------+-------------------------------+-----------------+
+|\ |STYLE37|\   |                               |\ |STYLE38|\     |
++---------------+-------------------------------+-----------------+
 
 .. _h2626a662a6b113685261702b40722c:
 
@@ -101,14 +129,32 @@ Cronoprogramma finanziario
 **************************
 
 
-|REPLACE4|
++---------------+---------+----+----+---------+---------+---------+----------+
+|Codice progetto|2014/2015|2016|2017|2018     |2019     |2020     |Totale    |
++===============+=========+====+====+=========+=========+=========+==========+
+|PA1.1.1.a      |0        |0   |0   |603.714  |844.464  |1.286.822|2.735.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|PA1.1.1.b      |0        |0   |0   |463.857  | 321.428 |1.199.715|1.985.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|PA1.1.1.c      |0        |0   |0   |427.142  | 241.071 |621.787  |1.290.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|PA1.1.1.d      |0        |0   |0   |397.785  |485.428  |821.787  |1.705.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|PA1.1.1.e      |0        |0   |0   |392.857  |250.000  |1.142.143|1.785.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|PA1.1.1.f      |0        |0   |0   |571.428  |571.428  |3.372.144|4.515.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|PA1.1.1.g      |0        |0   |0   |693.332  |344.539  |947.129  |1.985.000 |
++---------------+---------+----+----+---------+---------+---------+----------+
+|Totale         |0        |0   |0   |3.550.115|3.058.358|9.391.527|16.000.000|
++---------------+---------+----+----+---------+---------+---------+----------+
 
 .. _h3d2231792332f56687a7544693a25:
 
 Analisi della spesa
 *******************
 
-\ |STYLE30|\ 
+\ |STYLE39|\ 
 
 L'Asse 1 del Programma PON Metro, descritto con il presente Piano Operativo, disegna un quadro di riferimento entro il quale, i diversi ambiti progettuali di intervento concorrono, unitariamente e organicamente, a definire i servizi, le infrastrutture, l’organizzazione ed i modelli di gestione abilitanti rispetto agli obiettivi generali del PON METRO che la Città di Palermo intende porre in atto in coerenza con i contenuti e gli indirizzi definiti dall’ Agenda Digitale.
 
@@ -124,7 +170,7 @@ Piattaforma Informatica di Città
 
 Lo schema precedente rappresenta la Piattaforma Informatica di Città con l’insieme dei macro-servizi offerti:
 
-        ●      Servizi Cloud (\ |STYLE31|\ , \ |STYLE32|\ ) secondo i modelli:
+        ●      Servizi Cloud (\ |STYLE40|\ , \ |STYLE41|\ ) secondo i modelli:
 
             o    IaaS: Infrastructure as a Service
 
@@ -142,16 +188,62 @@ Lo schema precedente rappresenta la Piattaforma Informatica di Città con l’in
 
 \ |IMG4|\ 
 
-\ |STYLE33|\ 
+\ |STYLE42|\ 
 
 L’architettura Logica del Data Center evidenzia, invece, la disarticolazione delle diverse piattaforme costitutive.
 
 Nella Tabella seguente si riporta l’articolazione in Piattaforme dell’intera infrastruttura ICT del progetto.
 
 
-|REPLACE5|
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|Piattaforma                                          |Descrizione                                                                                                                                     |Articolazione                                                                                                     |
++=====================================================+================================================================================================================================================+==================================================================================================================+
+|Piattaforma Cloud                                    |Infrastruttura computazionale, Cloud e SLA                                                                                                      |Server, storage enetwork                                                                                          |
+|                                                     |                                                                                                                                                |                                                                                                                  |
+|                                                     |                                                                                                                                                |                                                                                                                  |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Piattaforma IaaS                                                                                                  |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Servizi di Business Continuity                                                                                    |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Servizi di integrazione                                                                                           |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|Piattaforma Middleware                               |Strato middleware polivalente, trasversale e funzionale al supporto delle diverse piattaforme applicative implementate col programma            |Piattaforma ESB, IM e AC                                                                                          |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Strato PaaS                                                                                                       |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Piattaforma BPM e gestione documentale + piattaforma CMS/portali                                                  |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Datawarehouse, Business Intelligence & Business Analytics                                                         |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Integrazione SPID e Carta del cittadino                                                                           |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Servizi di integrazione                                                                                           |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|Piattaforme Applicative                              |Piattaforme applicative specifiche, concepite nativamente in tecnologia Cloud, che si avvalgono delle diverse componenti middleware implementate|Piattaforma Applicative con specifico riferimento allo sviluppo degli elementi di interfaccia front-end e back-end|
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|Portale metropolitano                                |Portale di Accesso, integrato alle piattaforme applicative e aperto anche ai Comuni di area metropolitana coinvolti nel programma               |Portale di Accesso                                                                                                |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|Piattaforma di connettività urbana: WiFi di distretto|Piattaforma di accesso per la connettività multimodale di supporto all'infrastruttura IoT di monitoraggio ambientale                            |Servizi per la Funzionalizzazione dell’anello telematico                                                          |
+|                                                     |                                                                                                                                                |                                                                                                                  |
+|                                                     |                                                                                                                                                |                                                                                                                  |
+|                                                     |                                                                                                                                                |                                                                                                                  |
+|                                                     |                                                                                                                                                |                                                                                                                  |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Integrazione servizi e reti a banda larga ed ultra larga                                                          |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |WiFi di distretto                                                                                                 |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|Sensoristica IOT ambientale                          |Infrastruttura IoT di monitoraggio ambientale                                                                                                   |Sensori IoT ambientali - TPL                                                                                      |
+|                                                     |                                                                                                                                                |                                                                                                                  |
+|                                                     |                                                                                                                                                |                                                                                                                  |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Sensori IoT ambientali - pali illuminazione                                                                       |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                                                     |                                                                                                                                                |Sensori IoT ambientali - territorio                                                                               |
++-----------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
 
-Con riferimento alla “\ |STYLE34|\ ” si precisa che il sistema è esclusivamente funzionale e strumentale all'attuazione del servizio di sensoristica IOT ambientale. La piattaforma non è volta ad aumentare l’accessibilità ai servizi da parte dei cittadini.
+Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivamente funzionale e strumentale all'attuazione del servizio di sensoristica IOT ambientale. La piattaforma non è volta ad aumentare l’accessibilità ai servizi da parte dei cittadini.
 
  
 
@@ -164,6 +256,7 @@ Con riferimento alla “\ |STYLE34|\ ” si precisa che il sistema è esclusivam
 
     assistenza-sostegno-sociale
     edilizia-catasto
+    cultura
 
 
 .. bottom of content
@@ -229,93 +322,33 @@ Con riferimento alla “\ |STYLE34|\ ” si precisa che il sistema è esclusivam
 
 .. |STYLE29| replace:: *Indicatori di Risultato del Programma*
 
-.. |STYLE30| replace:: *Classificazione della spesa per ambito/destinazione*
+.. |STYLE30| replace:: *Assistenza e Sostegno Sociale*
 
-.. |STYLE31| replace:: *server virtualization*
+.. |STYLE31| replace:: *Edilizia e Catasto*
 
-.. |STYLE32| replace:: *virtual storage*
+.. |STYLE32| replace:: *Cultura e Tempo Libero*
 
-.. |STYLE33| replace:: *Architettura logica del DataCenter*
+.. |STYLE33| replace:: *Lavoro e Formazione*
 
-.. |STYLE34| replace:: *Piattaforma di connettività urbana: WiFi di distretto*
+.. |STYLE34| replace:: *Tributi Locali*
 
+.. |STYLE35| replace:: *Ambiente e Territorio*
 
-.. |REPLACE1| raw:: html
+.. |STYLE36| replace:: *Lavori Pubblici*
 
-    <table cellspacing="0" cellpadding="0" style="width:77%">
-    <thead>
-    <tr><th style="text-align:center;width:26%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">Descrizione indicatore output</p></th><th style="text-align:center;width:33%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">Descrizione indicatore output</p></th><th style="text-align:center;width:20%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">Target 2018*</p></th><th style="text-align:center;width:21%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">Target 2023*</p></th></tr>
-    </thead><tbody>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">IO01</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">Numero di comuni associati a sistemi informativi integrati</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">4</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3">42</p></td></tr>
-    </tbody></table>
+.. |STYLE37| replace:: **Totale**
 
-.. |REPLACE2| raw:: html
+.. |STYLE38| replace:: **€ 16.000.000,00**
 
-    <table cellspacing="0" cellpadding="0" style="width:89%">
-    <thead>
-    <tr><th style="width:25%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Indicatore di risultato</p></th><th style="text-align:center;width:23%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Unità di misura</p></th><th style="text-align:center;width:23%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Baseline (RMS)</p></th><th style="text-align:center;width:28%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Obiettivo (RMS)</p></th></tr>
-    </thead><tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>IR01</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>%</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>15,50</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>70,00</p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>IR02</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>%</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>29,10</p></td><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>50,00</p></td></tr>
-    </tbody></table>
+.. |STYLE39| replace:: *Classificazione della spesa per ambito/destinazione*
 
-.. |REPLACE3| raw:: html
+.. |STYLE40| replace:: *server virtualization*
 
-    <table cellspacing="0" cellpadding="0" style="width:94%">
-    <thead>
-    <tr><th style="text-align:center;width:15%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Codice progetto</p></th><th style="text-align:center;width:61%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Titolo progetto</p></th><th style="text-align:center;width:24%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Risorse assegnate</p></th></tr>
-    </thead><tbody>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.a</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Assistenza e Sostegno Sociale</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€ 2.735.000,00</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.b</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Edilizia e Catasto</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€ 1.985.000,00</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.c</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Cultura e Tempo Libero</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€ 1.290.000,00</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.d</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Lavoro e Formazione</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€ 1.705.000,00</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.e</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Tributi Locali</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€ 1.785.000,00</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.f</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Ambiente e Territorio</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€ 4.515.000,00</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">PA1.1.1.g</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">Piattaforma ICT “<span style="font-style:italic">Lavori Pubblici</span>”</p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3">€1.985.000,00</p></td></tr>
-    <tr><td colspan="2" style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3"><span style="font-weight:bold">Totale</span></p></td><td style="text-align:right;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-bottom:3;margin-top:3"><span style="font-weight:bold">€ 16.000.000,00</span></p></td></tr>
-    </tbody></table>
+.. |STYLE41| replace:: *virtual storage*
 
-.. |REPLACE4| raw:: html
+.. |STYLE42| replace:: *Architettura logica del DataCenter*
 
-    <table cellspacing="0" cellpadding="0" style="width:96%">
-    <thead>
-    <tr><th style="text-align:center;width:15%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Codice progetto</p></th><th style="text-align:center;width:10%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2014/2015</p></th><th style="text-align:center;width:9%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2016</p></th><th style="text-align:center;width:8%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2017</p></th><th style="text-align:center;width:14%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2018</p></th><th style="text-align:center;width:14%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2019</p></th><th style="text-align:center;width:15%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2020</p></th><th style="text-align:center;width:15%;background-color:#cccccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Totale</p></th></tr>
-    </thead><tbody>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.a</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>603.714</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>844.464</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.286.822</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>2.735.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.b</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>463.857</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p> 321.428</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.199.715</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.985.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.c</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>427.142</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p> 241.071</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>621.787</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.290.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.d</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>397.785</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>485.428</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>821.787</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.705.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.e</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>392.857</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>250.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.142.143</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.785.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.f</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>571.428</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>571.428</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>3.372.144</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>4.515.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>PA1.1.1.g</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>693.332</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>344.539</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>947.129</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>1.985.000</p></td></tr>
-    <tr><td style="text-align:center;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>Totale</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>3.550.115</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>3.058.358</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>9.391.527</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>16.000.000</p></td></tr>
-    </tbody></table>
-
-.. |REPLACE5| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:100%">
-    <thead>
-    <tr><th style="text-align:center;width:23%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma</p></th><th style="text-align:center;width:35%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Descrizione</p></th><th style="text-align:center;width:41%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Articolazione</p></th></tr>
-    </thead><tbody>
-    <tr><td rowspan="4" style="text-align:center;background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma Cloud</p></td><td rowspan="4" style="text-align:center;background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Infrastruttura computazionale, Cloud e SLA</p><p> </p></td><td style="text-align:center;background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Server, storage enetwork</p></td></tr>
-    <tr><td style="text-align:center;background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma IaaS</p></td></tr>
-    <tr><td style="text-align:center;background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Servizi di Business Continuity</p></td></tr>
-    <tr><td style="text-align:center;background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Servizi di integrazione</p></td></tr>
-    <tr><td rowspan="6" style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma Middleware</p></td><td rowspan="6" style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Strato middleware polivalente, trasversale e funzionale al supporto delle diverse piattaforme applicative implementate col programma</p></td><td style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma ESB, IM e AC</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Strato PaaS</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma BPM e gestione documentale + piattaforma CMS/portali</p></td></tr>
-    <tr><td style="background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p style="margin-top:12">Datawarehouse, Business Intelligence & Business Analytics</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Integrazione SPID e Carta del cittadino</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d9ead3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Servizi di integrazione</p></td></tr>
-    <tr><td style="text-align:center;background-color:#cfe2f3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforme Applicative</p></td><td style="text-align:center;background-color:#cfe2f3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforme applicative specifiche, concepite nativamente in tecnologia Cloud, che si avvalgono delle diverse componenti middleware implementate</p></td><td style="text-align:center;background-color:#cfe2f3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma Applicative con specifico riferimento allo sviluppo degli elementi di interfaccia front-end e back-end</p></td></tr>
-    <tr><td style="text-align:center;background-color:#ead1dc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Portale metropolitano</p></td><td style="text-align:center;background-color:#ead1dc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Portale di Accesso, integrato alle piattaforme applicative e aperto anche ai Comuni di area metropolitana coinvolti nel programma</p></td><td style="text-align:center;background-color:#ead1dc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Portale di Accesso</p></td></tr>
-    <tr><td rowspan="3" style="text-align:center;background-color:#d0e0e3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma di connettività urbana: WiFi di distretto</p></td><td rowspan="3" style="text-align:center;background-color:#d0e0e3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Piattaforma di accesso per la connettività multimodale di supporto all'infrastruttura IoT di monitoraggio ambientale</p><p> </p><p> </p></td><td style="text-align:center;background-color:#d0e0e3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Servizi per la Funzionalizzazione dell’anello telematico</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d0e0e3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Integrazione servizi e reti a banda larga ed ultra larga</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d0e0e3;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>WiFi di distretto</p></td></tr>
-    <tr><td rowspan="3" style="text-align:center;background-color:#d9d2e9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Sensoristica IOT ambientale</p></td><td rowspan="3" style="text-align:center;background-color:#d9d2e9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Infrastruttura IoT di monitoraggio ambientale</p><p> </p></td><td style="text-align:center;background-color:#d9d2e9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Sensori IoT ambientali - TPL</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d9d2e9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Sensori IoT ambientali - pali illuminazione</p></td></tr>
-    <tr><td style="text-align:center;background-color:#d9d2e9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><p>Sensori IoT ambientali - territorio</p></td></tr>
-    </tbody></table>
+.. |STYLE43| replace:: *Piattaforma di connettività urbana: WiFi di distretto*
 
 
 .. |LINK1| raw:: html
