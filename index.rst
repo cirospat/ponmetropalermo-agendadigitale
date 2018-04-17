@@ -257,6 +257,7 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
     assistenza-sostegno-sociale
     edilizia-catasto
     cultura
+    lavoro-formazione
 
 
 .. bottom of content
