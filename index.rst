@@ -263,6 +263,7 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
     cultura
     lavoro-formazione
     tributi-locali
+    ambiente-territorio
 
 
 .. bottom of content
