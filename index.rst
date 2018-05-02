@@ -1,18 +1,22 @@
 
-.. _h7d3d1f1f533d5c33805214d17347380:
+.. _h2a4836144e5331401736372143742531:
 
-PON Metro Palermo 2014-2020 Asse 1 agenda digitale
-##################################################
+PON Metro Palermo 2014-2020 - Asse 1 agenda digitale
+####################################################
 
 \ |IMG1|\ 
 
-\ |LINK1|\  
 
-\ |LINK2|\  
+.. admonition:: Fonte dati
 
-Revisione Marzo 2018 - Post Deliberazione G.M. n. 268 del 07/12/2016
+    \ |LINK1|\ 
 
-Asse 1 - Agenda Digitale Metropolitana
+
+.. admonition:: Revisione
+
+    Marzo 2018 - Post Deliberazione G.M. n. 268 del 07/12/2016 Comune di Palermo
+
+|
 
 .. _h2b42474a43685a553b6213394d385675:
 
@@ -355,11 +359,7 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
 
 .. |LINK1| raw:: html
 
-    <a href="https://ponmetro.comune.palermo.it" target="_blank">https://ponmetro.comune.palermo.it</a>
-
-.. |LINK2| raw:: html
-
-    <a href="http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/" target="_blank">http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/</a>
+    <a href="http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/" target="_blank">http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo</a>
 
 
 .. |IMG1| image:: static/ponmetro_1.png
