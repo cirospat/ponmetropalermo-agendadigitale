@@ -43,27 +43,27 @@ Gli \ |STYLE11|\  che la Piattaforma “\ |STYLE12|\ ” si prefigge di raggiung
 
 * \ |STYLE14|\ , all’interno del Portale del Territorio, specificamente rivolti a diversi attori:
 
-        o	i cittadini, per consentire loro di fruire appieno del territorio, delle risorse culturali di cui dispone e degli eventi ricreativi che propone;
+    * i cittadini, per consentire loro di fruire appieno del territorio, delle risorse culturali di cui dispone e degli eventi ricreativi che propone;
 
-        o	i turisti, per potere fruire appieno delle ricchezze e delle bellezze del territorio attraverso la possibilità di disegnare percorsi ad hoc o utilizzare percorsi standard che consentano loro di maturare un’esperienza completa di quanto offerto;
+    * i turisti, per potere fruire appieno delle ricchezze e delle bellezze del territorio attraverso la possibilità di disegnare percorsi ad hoc o utilizzare percorsi standard che consentano loro di maturare un’esperienza completa di quanto offerto;
 
-        o	le Pubbliche Amministrazioni, per coordinare e valorizzare appieno i tanti asset culturali che amministrano;
+    * le Pubbliche Amministrazioni, per coordinare e valorizzare appieno i tanti asset culturali che amministrano;
 
-        o	le aziende, per valorizzare appieno la propria offerta in termini di prodotti, con un approccio di sistema che si aggiunge a quello affidato alla libera iniziativa di ciascuno di essi;
+    * le aziende, per valorizzare appieno la propria offerta in termini di prodotti, con un approccio di sistema che si aggiunge a quello affidato alla libera iniziativa di ciascuno di essi;
 
 * \ |STYLE15|\ . Si tratta de:
 
-        o	le politiche volte a definire le linee guida per la predisposizione dei contenuti sia per quanto attiene la loro strutturazione logica sia per quanto attiene la struttura dei metadati associati;
+* le politiche volte a definire le linee guida per la predisposizione dei contenuti sia per quanto attiene la loro strutturazione logica sia per quanto attiene la struttura dei metadati associati;
 
-        o	la disponibilità di strumenti editoriali standard, pronti all’uso;
+* la disponibilità di strumenti editoriali standard, pronti all’uso;
 
 * \ |STYLE16|\  rivolti sia agli organizzatori sia ai potenziali fruitori, \ |STYLE17|\ , che consenta ai singoli promotori delle iniziative di disporre di uno strumento di comunicazione in grado di raggiungere in modo unitario i diversi destinatari;
 
 * \ |STYLE18|\  riguardanti:
 
-        o	orari e modalità di accesso a teatri, monumenti, strutture sportive, biblioteche, etc.;
+* orari e modalità di accesso a teatri, monumenti, strutture sportive, biblioteche, etc.;
 
-        o	condivisione dell’accesso al patrimonio librario dell’intera area metropolitana attraverso la realizzazione di un portale unico di prenotazione e di consultazione in grado di mettere a sistema non solo le strutture comunali ma anche quelle scolastiche e universitarie;
+* condivisione dell’accesso al patrimonio librario dell’intera area metropolitana attraverso la realizzazione di un portale unico di prenotazione e di consultazione in grado di mettere a sistema non solo le strutture comunali ma anche quelle scolastiche e universitarie;
 
 * \ |STYLE19|\ , in grado non solo di proporre agli utenti servizi tradizionali (trasporto, vitto, alloggio, cultura e itinerario) ma anche di valorizzare i prodotti del territorio diventando un vero e proprio portale di marketing territoriale.
 
@@ -226,19 +226,11 @@ Risultato atteso - Indicatori di Output
 =======================================
 
 
-+-----------------------------+-----------------------------+-----------+-----------+
-|Descrizione indicatore output|Descrizione indicatore output|Target 2018|Target 2023|
-+=============================+=============================+===========+===========+
-|IO01                         |Numero di                    |1          |7          |
-|                             |                             |           |           |
-|                             |comuni associati             |           |           |
-|                             |                             |           |           |
-|                             |a sistemi                    |           |           |
-|                             |                             |           |           |
-|                             |informativi                  |           |           |
-|                             |                             |           |           |
-|                             |integrati                    |           |           |
-+-----------------------------+-----------------------------+-----------+-----------+
++-----------------------------+----------------------------------------------------------+-----------+-----------+
+|Descrizione indicatore output|Descrizione indicatore output                             |Target 2018|Target 2023|
++=============================+==========================================================+===========+===========+
+|IO01                         |Numero di comuni associati a sistemi informativi integrati|1          |7          |
++-----------------------------+----------------------------------------------------------+-----------+-----------+
 
 \ |STYLE88|\  
 
