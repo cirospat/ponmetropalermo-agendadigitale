@@ -21,6 +21,11 @@ PON Metro Palermo 2014-2020 - Asse 1 agenda digitale
 
     Link al \ |LINK2|\ 
 
+
+..  Important:: 
+
+    Affidamento alla Società in house per i servizi informatici, SISPI SPA, della realizzazione dei servizi di Agenda Digitale, Asse 1 del PON METRO Palermo 2014-2020, con Determinazione Dirigenziale dell'Area Innovazione Tecnologica n. 13 del 26/10/2017
+
 .. _h2b42474a43685a553b6213394d385675:
 
 Sintesi della strategia di intervento
