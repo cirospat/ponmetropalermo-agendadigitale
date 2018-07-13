@@ -261,6 +261,8 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
 
 È opportuno menzionare in questa fase come le diverse piattaforme contribuiscano in modo trasversale e funzionale alla implementazione delle diverse piattaforme applicative espressamente previste dal progetto e meglio descritte nelle singole schede seguenti. È inoltre opportuno precisare in questa sede che alcuni servizi/piattaforme annoverate nello schema di cui sopra, pur essendo logicamente inserite nel novero delle componenti dell’infrastruttura ICT di progetto, verranno realizzati con risorse da rinvenire sugli altri Assi; è questo il caso della sensoristica IoT Ambientale – TPL e dei pali di illuminazione o della piattaforma semaforica. Tali componenti sono annoverate nello schema di cui sopra dal momento che, per la loro implementazione, si avvarranno, in modo assolutamente rilevante, delle componenti architetturali implementate per le altre piattaforme di progetto, nella logica di ecosistema di progetto più volte richiamata in precedenza.
 
+|
+
 .. toctree::
   :maxdepth: 2
 
