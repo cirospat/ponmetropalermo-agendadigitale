@@ -1,8 +1,8 @@
 
-.. _h2a4836144e5331401736372143742531:
+.. _h38667c62305991d5931217c622448:
 
-PON Metro Palermo 2014-2020 - Asse 1 agenda digitale
-####################################################
+PON Metro Palermo 2014-20, Asse 1 (agenda digitale)
+###################################################
 
 \ |IMG1|\ 
 
@@ -385,7 +385,7 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/" target="_blank">http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo</a>
+    <a href="http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/" target="_blank">www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo</a>
 
 .. |LINK2| raw:: html
 
