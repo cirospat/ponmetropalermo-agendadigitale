@@ -272,7 +272,7 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Indice 
+    :caption: Indice Asse 1 (Agenda Digitale)
 
     assistenza-sostegno-sociale
     edilizia-catasto
@@ -281,6 +281,12 @@ Con riferimento alla “\ |STYLE43|\ ” si precisa che il sistema è esclusivam
     tributi-locali
     ambiente-territorio
     lavori-pubblici
+
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Indice Asse 2 (interventi ICT)
+
     city-compass
     realtime-flotta-bus
 
