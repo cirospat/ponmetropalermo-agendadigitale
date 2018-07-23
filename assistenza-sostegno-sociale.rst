@@ -55,9 +55,9 @@ Beneficiari
 
 I beneficiari della presente piattaforma sono molteplici:
 
-        ●        \ |STYLE19|\ , che potranno disporre di un punto di riferimento unitario per tutto ciò che concerne l’Assistenza e il Sostegno Sociale;
+* \ |STYLE19|\ , che potranno disporre di un punto di riferimento unitario per tutto ciò che concerne l’Assistenza e il Sostegno Sociale; 
 
-\ |STYLE20|\ , che potranno disporre di una visione unitaria e integrata dei bisogni sociali, potendo così implementare dei modelli cooperativi trans-comunali in grado di creare benefiche sinergie e messa in comune delle risorse disponibili oltre che delle politiche di intervento.
+* \ |STYLE20|\ , che potranno disporre di una visione unitaria e integrata dei bisogni sociali, potendo così implementare dei modelli cooperativi trans-comunali in grado di creare benefiche sinergie e messa in comune delle risorse disponibili oltre che delle politiche di intervento.
 
 .. _h637d2d14366527a111435544b537a18:
 
